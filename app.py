@@ -135,7 +135,7 @@ with st.sidebar:
 ui.load_css()
 ui.hero()
 
-text_tab, image_tab = st.tabs(["✍️ Paste review", "🖼️ Upload screenshot"])
+text_tab, image_tab = st.tabs(["Shreshtha Mukherjee", "Sakshi Gholap"])
 
 with text_tab:
     st.caption("Try an example:")
